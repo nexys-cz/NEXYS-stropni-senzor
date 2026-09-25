@@ -1,0 +1,1 @@
+# NEXYS-stropni-senzor
